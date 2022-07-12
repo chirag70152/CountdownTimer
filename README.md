@@ -1,0 +1,1 @@
+This is a basic countdown timer which asks user how long they want to set the timer, and then it starts the timer
